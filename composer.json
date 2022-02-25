@@ -1,0 +1,16 @@
+{
+    "name": "marcmendoza/dockerized",
+    "description": "a dockerized php dev project",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Mendoza",
+            "email": "777marc@gmail.com"
+        }
+    ],
+    "require": {}
+}
